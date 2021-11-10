@@ -1,0 +1,125 @@
+---
+title: "https://ideas.ted.com/how-to-build-closer-relationships/"
+subtitle: "A LASER workshop"
+author: "Joshua Rosenberg"
+institute: "LASER and University of Tennessee, Knoxville"
+date: "2016/12/12 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+Image credit: [iStock](https://ideas.ted.com/how-to-build-closer-relationships/)
+
+---
+class: center, middle
+
+# xaringan
+
+---
+
+# Outline
+
+- Introductions to one another - chat
+- Discussion of SNA interests
+- The network perspective
+- Two key processes: selection and influence
+- Sharing of several SNA examples
+- Research questions related to selection
+- How to estimate selection models 
+    - Descriptive
+    - Logistic regression (see extensions)
+    - ERGM
+    - Other: latent space
+- Discussion
+
+<link to slides>
+
+---
+
+# Welcome!
+
+- I'm Joshua Rosenberg
+- I'm an Assistant Professor of STEM Education at the University of Tennessee
+
+---
+
+# Discussion of network analytic interest
+
+In what are you interested? Why?
+
+---
+
+# The Big Picture
+
+Human social networks involve _actors_ and _ties_
+
+Our analyses usually involve _actors_
+
+So, what's different? Ties (in the context of actors)
+
+How common are these in other (non social network analysis) studies?
+
+How are they considered?
+
+---
+
+# The social network perspective 
+
+One foundational way of viewing social networks is in terms of two _processes_
+
+Processes differ from attributes; what are attributes of networks?
+
+We can think of processes as what drive the creation and change of a network
+
+Two key processes are _selection_ and _influence_ (Frank, 1998)
+
+---
+
+# Defining selection and influence
+
+**Selection**:
+
+**Influence**: 
+
+---
+
+# Sharing of several SNA examples
+
+---
+
+# Research questions related to selection
+
+What might these be?
+
+---
+
+# How to estimate selection
+
+  - Descriptive
+  - Logistic regression (see extensions)
+  - ERGM
+  - Other: latent space
+
+---
+
+# Discussion
+
+What are you interested in doing next?
+
+---
+
+# Thanks!
+
+Joshua Rosenberg, jmrosenberg@utk.edu, @Josh on Slack!
+<link to slides>
